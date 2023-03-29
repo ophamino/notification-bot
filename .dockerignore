@@ -1,0 +1,14 @@
+#  dev tools
+.pre-commit-config.yaml
+.git
+.gitinore
+.flake8
+Dockerfile
+mypy.ini
+venv/
+.env.dist
+
+#  other
+README.md
+.mypy_cache/
+__pycache__/
